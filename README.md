@@ -124,3 +124,16 @@ Features:
 - B: 1000(Bk - 0.63)^2 where Bk is the proportion of black residents by town.
 - LSTAT: percentage of lower status of the population.
 - MEDV: median value of owner-occupied homes in $1000s (Target).
+
+# Predicting House Prices Using Linear Regression
+A beginner machine learning project to predict house prices using the Boston Housing Dataset.
+
+## Setup
+1. Install dependencies: `pip install -r requirements.txt`
+2. Place `boston_housing.csv` in the `data/` folder.
+3. Run notebooks in `notebooks/` or scripts in `scripts/`.
+
+## Structure
+- `data/`: Dataset
+- `notebooks/`: Exploratory and modeling steps
+- `scripts/`: Reusable code

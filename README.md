@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gc5EIubW)
 # Machine Learning Beginner Project: Linear Regression
 ### Project Title: Predicting House Prices Using Linear Regression
 
@@ -123,3 +124,16 @@ Features:
 - B: 1000(Bk - 0.63)^2 where Bk is the proportion of black residents by town.
 - LSTAT: percentage of lower status of the population.
 - MEDV: median value of owner-occupied homes in $1000s (Target).
+
+# Predicting House Prices Using Linear Regression
+A beginner machine learning project to predict house prices using the Boston Housing Dataset.
+
+## Setup
+1. Install dependencies: `pip install -r requirements.txt`
+2. Place `boston_housing.csv` in the `data/` folder.
+3. Run notebooks in `notebooks/` or scripts in `scripts/`.
+
+## Structure
+- `data/`: Dataset
+- `notebooks/`: Exploratory and modeling steps
+- `scripts/`: Reusable code
